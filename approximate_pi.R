@@ -24,3 +24,7 @@ pi <- 4* (in_circle)
 return(pi)
 }
 
+approximate_pi(darts=1000)
+approximate_pi(darts=10000)
+#added some tests for you. Loren L.
+
